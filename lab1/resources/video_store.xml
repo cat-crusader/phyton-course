@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<video_store xmlns="http://cat-crusader.com.lab1/video_store">
+	<genre id="1" name="blockbuster">
+		<film id="1" name="interstaller" duration="80" director="nolan"/>
+	</genre>
+	<genre id="2" name="drama">
+		<film id="2" name="mafia" duration="90" director="andrew"/>
+	</genre>
+</video_store>
